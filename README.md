@@ -22,12 +22,6 @@ of OOP in one working system.
 - **Abstraction** — Person defines the contract, 
   subclasses implement it
 
- How to run?
-
-git clone https://github.com/yourusername/library-management-system
-cd library-management-system
-python main.py
-
  What's coming next?
 
 - Save/load library data from a JSON file
